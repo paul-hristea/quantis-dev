@@ -7,7 +7,8 @@
       "namespace": "android_app",
       "package_name": "com.haatchapp.mobile",
       "sha256_cert_fingerprints": [
-        "97:72:75:C2:5B:86:7A:9B:D1:98:39:DB:17:5E:DD:7F:B6:FB:2D:9F:20:64:80:49:AD:DA:B0:C3:CF:1F:0A:50"
+        "97:72:75:C2:5B:86:7A:9B:D1:98:39:DB:17:5E:DD:7F:B6:FB:2D:9F:20:64:80:49:AD:DA:B0:C3:CF:1F:0A:50",
+        "3B:F6:56:14:E2:9F:FE:AE:1D:1E:2F:DD:92:B6:FA:FC:B3:50:06:5F:AA:C5:CE:68:4C:F7:EA:D7:3F:61:15:10"
       ]
     }
   }
