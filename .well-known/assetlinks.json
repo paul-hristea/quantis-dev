@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.haatchapp.mobile",
+      "sha256_cert_fingerprints": [
+        "97:72:75:C2:5B:86:7A:9B:D1:98:39:DB:17:5E:DD:7F:B6:FB:2D:9F:20:64:80:49:AD:DA:B0:C3:CF:1F:0A:50"
+      ]
+    }
+  }
+]
