@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "43YR8CX687.com.haatch.app",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
