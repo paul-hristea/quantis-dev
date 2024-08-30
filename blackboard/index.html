@@ -2,7 +2,7 @@
 <head>
     <title>Quantis Development</title>
     <link rel="icon" type="image/x-icon" href="quantis-logo-white.svg">
-    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <style>
         .kitty {
             position: absolute;
@@ -18,10 +18,12 @@
             var vh = window.innerHeight;
             var pad = 28;
             var element = document.createElement("div");
+            var cat = randomInt(1, 4);
             element.className = "kitty";
-            element.textContent = "🐈";
-            element.style.left = randomInt(pad, vw - (28 + pad));
-            element.style.top = randomInt(pad, vh - (28 + pad));
+            element.style.left = randomInt(pad, vw - (137 + pad));
+            element.style.top = randomInt(pad, vh - (137 + pad));
+            element.innerHTML = `<img style="object-fit: contain; max-width: 37px" src="cat${cat}.png"/>`
+
             document.getElementById("main").appendChild(element);
         }
 
